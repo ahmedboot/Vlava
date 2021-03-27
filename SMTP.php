@@ -44,7 +44,6 @@ if (!$mail->send()) {
     exit();
 } else {
     echo json_encode("{'msg':'OK'}");
-   header('Location:http://localhost/RAYA_boot_service/source/Vlava/index.html#section-contact');
 }
 
 
