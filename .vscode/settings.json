@@ -1,0 +1,5 @@
+{
+    "atlascode.enableCharles": true,
+    "atlascode.enableCurlLogging": true,
+    "atlascode.enableHttpsTunnel": true
+}
